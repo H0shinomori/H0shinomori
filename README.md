@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mykyta 👋
 
-<!--
-**H0shinomori/H0shinomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Android Developer specialized in **Java** and **Firebase**, focused on building **real, functional mobile applications**.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Develop Android apps using **Java & Android Studio**
+- Implement **Firebase Authentication & Realtime Database**
+- Build full **CRUD functionalities**
+- Use **Git & GitHub** for version control
+- Focus on clean, understandable, and maintainable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Featured Projects
+- **WeatherNow** – Android weather app consuming external APIs  
+- **T-Manager** – Task management app built in Java  
+- **Bird Game** – Simple Java game project  
+
+## 🌱 Currently learning
+- Advanced Android patterns
+- Clean architecture basics
+- Kotlin (in progress)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mykyta-kazakov-bilenko-6349a8255/
+
